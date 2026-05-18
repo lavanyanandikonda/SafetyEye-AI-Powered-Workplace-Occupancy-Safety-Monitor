@@ -91,7 +91,3 @@ Integration with attendance and worker ID tracking
 Edge AI deployment on NVIDIA Jetson / IoT devices
 Audio-based alerts on factory floor
 
--> Contributors
-Developed by: Revanth Kumar Surisetti
-Mentor: Infosys Employer
-Infosys Internship – August 2025
