@@ -1,11 +1,11 @@
-SafetyEye – AI-Powered Workplace PPE Monitoring System
+# SafetyEye – AI-Powered Workplace PPE Monitoring System
 
 SafetyEye is an AI-powered computer vision system designed to monitor workplace safety using CCTV or live video streams.
 It automatically detects Personal Protective Equipment (PPE) such as Helmets, Safety Vests, Masks, and highlights safety violations in real-time.
 The system logs detected violations and can generate alarms, helping industries maintain compliance and prevent accidents.
 
 
-Key Features
+## Key Features
 
 -> Real-time PPE detection for:
 
